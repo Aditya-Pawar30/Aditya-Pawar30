@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="400" />
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aaditya+Pawar;ML+%2F+AI+Enthusiast;Software+Intern+%40+DataTechLab;Building+Intelligent+Solutions)](https://git.io/typing-svg)
+<!-- HERO GIF - verified permanent URL from Anmol-Baranwal repo -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/hyperkitty.gif" width="100px" />
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Aaditya+Pawar!;ML+%2F+AI+Enthusiast+%F0%9F%A4%96;Software+Intern+%40+DataTechLab+%F0%9F%92%BC;Building+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" width="100%" />
 
 </div>
 
@@ -16,7 +17,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Developer.gif" width="300px" />
 
 🔭 Currently working as a **Software Intern** at **The Data Tech Lab Inc.**
 
@@ -26,7 +27,7 @@
 
 🌐 Solid background in **APIs, RESTful services, web apps** & OOP concepts
 
-🌱 Continuously improving in **English communication** — from native Marathi speaker to professional bilingual
+🌱 Continuously improving in **English communication** — native Marathi speaker going professional bilingual
 
 ⚡ I believe in **continuous learning** — technically and personally
 
@@ -106,11 +107,25 @@
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Pawar30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -126,21 +141,11 @@
 
 ---
 
-## 📈 Activity Graph
-
 <div align="center">
 
-[![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Pawar30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Love.gif" width="80px" />
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
-<br>
+<br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Aditya-Pawar30&icon=4&color=1)](https://visitcount.itsvg.in)
 
