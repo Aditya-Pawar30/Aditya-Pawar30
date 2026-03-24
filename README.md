@@ -3,15 +3,15 @@
 # Hi, I'm Aaditya Pawar 👋
 
 <table>
-<tr>
-<td valign="middle" align="left" width="55%">
-
-<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="220" />
-
-</td>
-<td valign="middle" align="left" width="45%">
+<td valign="left" align="left" width="45%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&left=true&vCenter=true&width=380&lines=ML+%2F+AI+Enthusiast+%F0%9F%A4%96;Software+Intern+%40+DataTechLab;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Solutions+%F0%9F%9A%80;Supervised+%26+Unsupervised+Learning;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</td>
+<tr>
+<td valign="middle" align="middle" width="55%">
+
+<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="220" />
 
 </td>
 </tr>
