@@ -1,13 +1,21 @@
 <div align="center">
 
-<!-- HERO GIF - verified permanent URL from Anmol-Baranwal repo -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/hyperkitty.gif" width="100px" />
+# Hi, I'm Aaditya Pawar 👋
 
-<br>
+<table>
+<tr>
+<td valign="middle" align="left" width="55%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Aaditya+Pawar!;ML+%2F+AI+Enthusiast+%F0%9F%A4%96;Software+Intern+%40+DataTechLab+%F0%9F%92%BC;Building+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="220" />
 
-<br>
+</td>
+<td valign="middle" align="left" width="45%">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&left=true&vCenter=true&width=380&lines=ML+%2F+AI+Enthusiast+%F0%9F%A4%96;Software+Intern+%40+DataTechLab;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Solutions+%F0%9F%9A%80;Supervised+%26+Unsupervised+Learning;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" width="100%" />
 
@@ -17,7 +25,7 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Developer.gif" width="300px" />
+<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Developer.gif" width="260px" />
 
 🔭 Currently working as a **Software Intern** at **The Data Tech Lab Inc.**
 
@@ -143,13 +151,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Love.gif" width="80px" />
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Love.gif" width="60px" />
 
 <br><br>
 
 [![](https://visitcount.itsvg.in/api?id=Aditya-Pawar30&icon=4&color=1)](https://visitcount.itsvg.in)
-
-<br>
 
 **⭐ From [Aaditya Pawar](https://github.com/Aditya-Pawar30) — Keep building, keep learning!**
 
