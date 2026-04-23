@@ -1,115 +1,66 @@
-<div align="left">
+<h1 align="center"> Hi there, I'm Aditya 👋 </h1>
 
-# Hi, I'm Aaditya Pawar 👋
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://dev.recodehive.com/webs">Portfolios</a> -
+  <a href="http://linkedin.com/in/aaditya-pawar-33b5b332b">LinkedIn</a> - 
+  <a href="mailto:pawaraditya727@gmail.com">Contact me.</a> 
+</p>
 
-<table>
-<td valign="left" align="left" width="45%">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&left=true&vCenter=true&width=380&lines=ML+%2F+AI+Enthusiast+%F0%9F%A4%96;Software+Intern+%40+DataTechLab;Python+%7C+TensorFlow+%7C+PyTorch;Building+Intelligent+Solutions+%F0%9F%9A%80;Supervised+%26+Unsupervised+Learning;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<div style="display:flex;gap : 1rem;">
+  
+  💫 About Me
 
-</td>
-<tr>
-<td valign="middle" align="middle" width="55%">
+  <img align="right" alt="coding" width="220" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif">
 
-<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="220" />
+  
+  🔭 Currently working as a **Software Intern** at **The Data Tech Lab Inc.** <br>
+  🤖 Deeply passionate about **Machine Learning & Artificial Intelligence**<br>
+  🧠 Skilled in **supervised/unsupervised learning**, KNN, SVM, clustering & feature engineering<br>
+  🌐 Solid background in **APIs, RESTful services, web apps** & OOP concepts<br>
+  🌱 Continuously improving in my **Techniacl** and **Communication Skills**.<br>
+  ⚡ I believe in **continuous learning** — technically and personally<br>
 
-</td>
-</tr>
-</table>
+  <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" width="100%" />
+  
+ ### 🛠 Tech Stack
+  
+  👨‍💻 Languages : ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  
+  🤖 AI / ML Frameworks : ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+  
+  📊 Data & Visualization : ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 </div>
 
 ---
 
-## 💫 About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Developer.gif" width="260px" />
-
-🔭 Currently working as a **Software Intern** at **The Data Tech Lab Inc.**
-
-🤖 Deeply passionate about **Machine Learning & Artificial Intelligence**
-
-🧠 Skilled in **supervised/unsupervised learning**, KNN, SVM, clustering & feature engineering
-
-🌐 Solid background in **APIs, RESTful services, web apps** & OOP concepts
-
-🌱 Continuously improving in **English communication** — native Marathi speaker going professional bilingual
-
-⚡ I believe in **continuous learning** — technically and personally
-
-📧 Reach me at: **pawaraditya727@gmail.com**
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
+📊 GitHub Status
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pawar-33b5b332b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawaraditya727@gmail.com)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@AdityaPawar)
+<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="60%" />
+<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/3-stats.svg" width="35%" />
 
-</div>
+<br>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🤖 AI / ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
-
-### 📊 Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-### ☁️ Cloud & Web
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pawar30&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aditya-Pawar30&theme=nightowl&hide_border=false" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pawar30&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Aditya-Pawar30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" />
+<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="40%" />
 
 </div>
 
@@ -118,14 +69,12 @@
 ## 📈 Activity Graph
 
 <div align="center">
-
+  
 [![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Pawar30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -139,24 +88,16 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
+<div align="center"/>
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Love.gif" width="60px" />
-
-<br><br>
-
-[![](https://visitcount.itsvg.in/api?id=Aditya-Pawar30&icon=4&color=1)](https://visitcount.itsvg.in)
-
-**⭐ From [Aaditya Pawar](https://github.com/Aditya-Pawar30) — Keep building, keep learning!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-pawar-33b5b332b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawaraditya727@gmail.com)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@AdityaPawar)
 
 </div>
+
+
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" width="100%" />
+
+
