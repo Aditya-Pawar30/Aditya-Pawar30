@@ -50,31 +50,17 @@
 
 ---
 
-📊 GitHub Status
+📈 GitHub Status
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="60%" />
 <img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/3-stats.svg" width="35%" />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="40%" />
-<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="40%" />
-
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Pawar30&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
+ ---
+🔥Commits
 
 <div align="center">
 
@@ -98,6 +84,8 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.svg" width="100%" />
+<div align ="center">
+Show some ❤️ by starring some of the repositories!.
+</div>
 
 
