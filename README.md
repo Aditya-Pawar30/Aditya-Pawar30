@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://dev.recodehive.com/webs">Portfolios</a> -
+  <a href="">Portfolios</a> -
   <a href="http://linkedin.com/in/aaditya-pawar-33b5b332b">LinkedIn</a> - 
   <a href="mailto:pawaraditya727@gmail.com">Contact me.</a> 
 </p>
