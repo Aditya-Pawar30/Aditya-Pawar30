@@ -160,10 +160,9 @@ A document-processing application focused on automating parts of the KYC verific
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Pawar30&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Pawar30&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
-</div>
 
+<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="60%" />
+<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/3-stats.svg" width="35%" />
 ---
 
 ## 🤝 Let's Connect
