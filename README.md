@@ -156,7 +156,7 @@ A document-processing application focused on automating parts of the KYC verific
 - Built and experimented with AI-powered applications.
 
 ---
-##🔥Commits
+🔥Commits
 
 <div align="center">
 
