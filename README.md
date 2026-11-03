@@ -156,6 +156,17 @@ A document-processing application focused on automating parts of the KYC verific
 - Built and experimented with AI-powered applications.
 
 ---
+##🔥Commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake.svg" />
+</picture>
+
+</div>
 
 ## 📊 GitHub Statistics
 
