@@ -156,9 +156,8 @@ A document-processing application focused on automating parts of the KYC verific
 - Built and experimented with AI-powered applications.
 
 ---
-🔥Commits
 
-<div align="center">
+## 📊 GitHub 🔥Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/output/github-snake-dark.svg" />
@@ -167,14 +166,6 @@ A document-processing application focused on automating parts of the KYC verific
 </picture>
 
 </div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="60%" />
-<img src="https://raw.githubusercontent.com/Aditya-Pawar30/Aditya-Pawar30/main/profile-summary-card-output/github_dark/3-stats.svg" width="35%" />
----
 
 ## 🤝 Let's Connect
 
